@@ -1,6 +1,6 @@
 ---
 title: UI/UX Design Catalog
-subtitle: Everything you need to start your next project off with a head start.
+subtitle: Everything you need to start your next project off on the right start.
 layout_style: mosaic
 seo:
   title: Portfolio
