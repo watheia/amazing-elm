@@ -1,5 +1,5 @@
 ---
-title: UI/UX Design Assets
+title: UI/UX Design Catalog
 subtitle: This is an optional subtitle for the portfolio page
 layout_style: mosaic
 seo:
