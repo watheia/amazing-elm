@@ -1,5 +1,5 @@
 ---
-title: Materials & Starter Projects
+title: UI/UX Design Assets
 subtitle: This is an optional subtitle for the portfolio page
 layout_style: mosaic
 seo:
