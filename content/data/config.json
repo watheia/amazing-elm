@@ -75,7 +75,7 @@
                 "url": "https://cdn.watheia.org/assets/terms-and-conditions.txt",
                 "style": "link",
                 "icon": "dribbble",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
