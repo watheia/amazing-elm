@@ -4,7 +4,6 @@
     "accent_color": "green",
     "base_font": "fraunces",
     "header": {
-        "title": "Watheia",
         "logo": "/images/mstile-150x150.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
