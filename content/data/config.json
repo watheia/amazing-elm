@@ -70,6 +70,6 @@
             }
         ]
     },
-    "domain": "https://.app",
+    "domain": "https://gatekeeper.app",
     "title": "Micro Frontends by Watheia Labs"
 }
