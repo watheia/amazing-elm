@@ -20,7 +20,8 @@
             },
             {
                 "url": "/blog/",
-                "style": "link"
+                "style": "link",
+                "label": "Blog"
             },
             {
                 "label": "About",
