@@ -1,6 +1,6 @@
 ---
 title: UI/UX Design Catalog
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Everything you need to start your next project off with a head start.
 layout_style: mosaic
 seo:
   title: Portfolio
