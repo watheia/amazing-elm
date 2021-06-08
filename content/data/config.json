@@ -19,14 +19,14 @@
                 "style": "link"
             },
             {
-                "url": "/blog/",
-                "style": "link",
-                "label": "Blog"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
+            },
+            {
+                "url": "/blog/",
+                "style": "link",
+                "label": "Blog"
             },
             {
                 "label": "Contact",
