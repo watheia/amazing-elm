@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "logo": "/images/mstile-150x150.png",
-        "logo_alt": "Agency logo",
+        "logo_alt": "Watheia Labs",
         "has_nav": true,
         "nav_links": [
             {
