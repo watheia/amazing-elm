@@ -81,7 +81,7 @@
             }
         ]
     },
-    "domain": "https://waweb.vercel.app",
+    "domain": "https://waweb.vercel.app/home",
     "title": "Micro Frontends by Watheia Labs",
     "favicon": "/images/icon.png"
 }
