@@ -11,15 +11,43 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Developing applications on a large enterprise team is different than
+      creating alone or on a small team. While small groups might be able to get
+      away with ad hoc decisions on application structure or coding best
+      practices, the same cannot be said when you’re working with dozens or
+      perhaps hundreds of other people. In addition, enterprise teams need to
+      assume that their code will stick around for many years to come. That
+      means they’ll need to do as much work as possible at the beginning of an
+      application’s development to minimize maintenance costs down the road.
+
+
+      We can summarize these concerns as follows:
+
+
+      *   **Consistency** — how do we make sure everyone in the organization
+      follows the same best practices for structuring and writing code?
+
+
+      *   **Safety** — how do we ensure that our code will not be subject to
+      attacks or prone to errors?
+
+
+      *   **Increased size and complexity** — how can we structure our code so
+      that it can grow without sacrificing clarity or performance?
+
+
+      *   **Changing requirements** — how can we keep up with the demands of the
+      business to continually update the application without letting technical
+      debt get out of control?
+
+
+      While small teams and small organizations share these same concerns to
+      some extent, the risks can be catastrophic at the enterprise scale.
+
+
+      To learn more about significant team problems, check out Victor Savkin’s
+      excellent ng-conf 2018 talk Angular at Large Organizations.
   - type: image_section
     image_alt: Nature Magazine 2
     width: wide
