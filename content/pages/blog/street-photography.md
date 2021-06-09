@@ -3,7 +3,7 @@ title: Understanding Street Photography
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
-date: '2021-01-05'
+date: "2021-01-05"
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
 image: images/post-4.jpg
@@ -14,30 +14,30 @@ seo:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Understanding Street Photography
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/post-4.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Understanding Street Photography
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/post-4.jpg
       relativeUrl: true
 layout: post

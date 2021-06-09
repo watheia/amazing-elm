@@ -4,7 +4,7 @@ excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
-date: '2020-12-27'
+date: "2020-12-27"
 thumb_image: images/post-3-thumb.jpg
 thumb_image_alt: Black white calendar
 image: images/post-3.jpg
@@ -15,30 +15,30 @@ seo:
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Why Fonts Matter
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
         primis
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/post-3.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Why Fonts Matter
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
         primis
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/post-3.jpg
       relativeUrl: true
 layout: post

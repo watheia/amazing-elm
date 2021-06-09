@@ -7,39 +7,39 @@ excerpt: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”. An interior designer is
   someone who coordinates and manages such projects.
-date: '2020-09-26'
+date: "2020-09-26"
 thumb_image: images/post-2-thumb.jpg
-thumb_image_alt: 'Potted plants, candles on a table'
+thumb_image_alt: "Potted plants, candles on a table"
 seo:
   title: How To Choose An Interior Designer
   description: >-
     Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
     eu interdum placerat
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: How To Choose An Interior Designer
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
         ac eu interdum placerat
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/post-2.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: How To Choose An Interior Designer
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
         ac eu interdum placerat
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/post-2.jpg
       relativeUrl: true
 layout: post

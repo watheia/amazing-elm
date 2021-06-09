@@ -22,25 +22,25 @@ sections:
     grid_items:
       - title: Gustav Purpleson
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: "Co-Founder, Creative Director"
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: "https://twitter.com/"
             style: icon
             icon: twitter
             new_window: true
       - title: Hilary Ouse
         image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: "Co-Founder, Creative Director"
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: "https://twitter.com/"
             style: icon
             icon: twitter
             new_window: true
@@ -52,29 +52,29 @@ sections:
           lacus.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: "https://twitter.com/"
             style: icon
             icon: twitter
             new_window: true
           - label: Instagram
-            url: 'https://www.instagram.com/'
+            url: "https://www.instagram.com/"
             style: icon
             icon: instagram
             new_window: true
       - title: Parsley Montana
         image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
+        subtitle: "Senior Designer, Motion Graphics"
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: "https://twitter.com/"
             style: icon
             icon: twitter
             new_window: true
           - label: Instagram
-            url: 'https://www.instagram.com/'
+            url: "https://www.instagram.com/"
             style: icon
             icon: instagram
             new_window: true
@@ -86,7 +86,7 @@ sections:
           eget.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: "https://twitter.com/"
             style: icon
             icon: twitter
             new_window: true
@@ -105,26 +105,26 @@ seo:
   title: About Us
   description: This is the about us page
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: About Us
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: This is the about us page
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: About Us
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: This is the about us page
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/about.jpg
       relativeUrl: true
 layout: advanced

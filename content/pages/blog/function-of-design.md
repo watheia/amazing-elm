@@ -4,7 +4,7 @@ subtitle: A interesting tale about function of design
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
-date: '2020-01-15'
+date: "2020-01-15"
 thumb_image: images/post-1-thumb.jpg
 thumb_image_alt: White concrete building wall
 image: images/post-1.jpg
@@ -15,30 +15,30 @@ seo:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: The function of design is letting design function
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/post-1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: The function of design is letting design function
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/post-1.jpg
       relativeUrl: true
 layout: post
