@@ -1,4 +1,5 @@
 import "../sass/main.scss"
+import "../sass/app.scss"
 import { withPrefix } from "../utils"
 
 const wideBackground = "images/landscape.png"
