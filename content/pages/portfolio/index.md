@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page
+title: UI/UX Design Materials
+subtitle: Everything you need to kick off your next project off on the right start.
 layout_style: mosaic
 seo:
   title: Portfolio
