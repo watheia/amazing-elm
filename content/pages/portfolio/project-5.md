@@ -6,7 +6,7 @@ thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
-    image: /images/DevOps@2x.png
+    image: /images/DevOps.png
     image_alt: Nature Magazine 1
     caption: "image\_By ribkhan"
     width: wide
